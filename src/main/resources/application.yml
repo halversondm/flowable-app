@@ -45,4 +45,4 @@ server:
 logging:
   level:
     org.flowable: INFO
-    com.example: DEBUG
+    com.halversondm: DEBUG
